@@ -4,7 +4,9 @@ Je t'indique juste que j'ai partitionné le projet de cette sorte :
 Il y a 3 branches parallèles :
 
 -- master 
+
 -- chessWeb (La tienne)
+
 -- chessApp (la mienne)
 
 Tu peux d'ailleurs les voir dans le Git en faisant "git branch --list"
